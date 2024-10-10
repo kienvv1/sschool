@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "28050558076",
+    "project_id": "pushnotification-3020b",
+    "storage_bucket": "pushnotification-3020b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28050558076:android:b70939ce5c4d9869d20df9",
+        "android_client_info": {
+          "package_name": "com.appbaochau"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28050558076-4fv7ukob33ehr9dsl63om8pqsb2d1h7d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLjrDF-0yP69so5YPmj4WCOx6eCxUM9Zg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28050558076-4fv7ukob33ehr9dsl63om8pqsb2d1h7d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
